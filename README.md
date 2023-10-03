@@ -1,4 +1,4 @@
-# logo-maker
+# Logo-maker
 
 
 ## My Task
